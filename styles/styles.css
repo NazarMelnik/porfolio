@@ -104,6 +104,7 @@ span {
 }
 .home-img img {
   width: 35vw;
+  /* min-height: 100%; */
   animation: floatImage 4s ease-in-out infinite;
 }
 @keyframes floatImage {
